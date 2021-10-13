@@ -1,4 +1,4 @@
-#Forcasting Early Churn customer of SoHo Broadband service
+#Predict Early Churn customer of SoHo Broadband service
 
 #A. Importing Library and data
 
